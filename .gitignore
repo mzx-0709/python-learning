@@ -21,3 +21,7 @@ Escape from Duckov/
 # 忽略游戏文件夹和快捷方式
 Escape from Duckov/
 *.lnk
+# 忽略桌面杂物
+desktop.ini
+*.url
+*.txt
