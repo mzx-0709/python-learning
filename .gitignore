@@ -24,4 +24,4 @@ Escape from Duckov/
 # 忽略桌面杂物
 desktop.ini
 *.url
-*.txt
+*.txt 
